@@ -5,8 +5,12 @@
 
 
 ## Activity
-Tianshi Wang
+Rithu Uppalapati - https://github.com/rurithu/Stats506_public
+
+Tianshi Wang - https://github.com/SkyWang0919/Stats506_public
 ### Week1 
+
 ### Week2
+
 ### Week3
  
