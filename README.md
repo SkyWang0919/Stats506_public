@@ -18,8 +18,8 @@ Tianshi Wang - https://github.com/SkyWang0919/Stats506_public
   + once we extract the information, save it into a new script.
 * Part 3 - Modify previous script to make it executable 
 #### Week 2 
-* This week we worked on simple R computing problems, including: 
-  + finding values of variables, which have been assigned to different built in functions 
+* Working on simple R computing problems, including: 
+  + finding values of variables of different built in functions 
   + determining the attributes of a dataset 
   + working through for-loops
 #### Week 3 
