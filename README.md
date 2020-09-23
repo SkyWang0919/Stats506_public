@@ -8,7 +8,7 @@
 ## Activities 
 Group Members: 
 
-Rithu Uppalapati 
+Rithu Uppalapati - https://github.com/rurithu/Stats506_public
 
 Tianshi Wang - https://github.com/SkyWang0919/Stats506_public
 #### Week 1 
