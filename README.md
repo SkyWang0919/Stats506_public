@@ -3,7 +3,7 @@
 ## About 
 
 #### course homepage: http://jbhender.github.io/Stats506/F20
-#### link for this repository: https://github.com/rurithu/Stats506_public
+#### link for this repository: https://github.com/SkyWang0919/Stats506_public
 
 ## Activities 
 Group Members: 
