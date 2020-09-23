@@ -16,7 +16,7 @@ Tianshi Wang - https://github.com/SkyWang0919/Stats506_public
   + set up terminal to execute template 
 * Part 2 - Download the data and then extract information from the columns 
   + once we extract the information, save it into a new script.
-* Part 3 - Modify previous script to make it executable 
+* Part 3 - Modify previous shell script to make it executable 
 #### Week 2 
 * Working on simple R computing problems, including: 
   + finding values of variables of different built in functions 
