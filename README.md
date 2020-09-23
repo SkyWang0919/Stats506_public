@@ -24,6 +24,6 @@ Tianshi Wang - https://github.com/SkyWang0919/Stats506_public
   + working through for-loops
 #### Week 3 
 * Part 1 - Create new Github repo 
-  + update ReadMe with weeks 1-3 activities 
+  + update ReadMe file with weeks 1-3 activities 
 * Part 2 - Learn about branches in git 
   + create a branch and then modify it with different git commands
