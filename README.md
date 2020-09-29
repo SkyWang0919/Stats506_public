@@ -11,6 +11,7 @@ Group Members:
 Rithu Uppalapati - https://github.com/rurithu/Stats506_public
 
 Tianshi Wang - https://github.com/SkyWang0919/Stats506_public
+
 ### Week 1 
 #### Part 1 - Prepare your workspace 
   + set up terminal to execute template 
@@ -27,3 +28,7 @@ Tianshi Wang - https://github.com/SkyWang0919/Stats506_public
   + update ReadMe file with weeks 1-3 activities 
 #### Part 2 - Learn about branches in git 
   + create a branch and then modify it with different git commands
+
+
+### Week 4-6
+Group Members:
