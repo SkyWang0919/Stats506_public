@@ -32,3 +32,14 @@ Tianshi Wang - https://github.com/SkyWang0919/Stats506_public
 
 ### Week 4-6
 Group Members:
+
+Zhilin He - https://github.com/zhilinheobv/Stats506_public
+
+Yan Chen - https://github.com/yanchannn/Stats506_public
+
+Hao He - 
+
+Tianshi Wang - https://github.com/SkyWang0919/Stats506_public
+
+
+
