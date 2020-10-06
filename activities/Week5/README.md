@@ -117,9 +117,9 @@ structure.
 
 ---
 
-1. Here is the plot you are targeting for q1.
+1. Here is the plot for q1.
 
-![](Stats506_public/activities/Week5/w4_p2_q1_plot.png)
+![](./w4_p2_q1_plot.png)
 
 ---
 
