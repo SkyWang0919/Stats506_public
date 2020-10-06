@@ -42,9 +42,9 @@ Hao He - https://github.com/hhaohe513/Stats506_public
 Tianshi Wang - https://github.com/SkyWang0919/Stats506_public
 
 
-week 4: practicing dplyr in R.
+#### week 4: practicing dplyr in R.
 
-week 5: practicing ggplot in R, and made 2 plots.
+#### week 5: practicing ggplot in R, and made 2 plots.
 
 
 
