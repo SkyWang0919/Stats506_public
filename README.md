@@ -6,7 +6,7 @@
 #### link for this repository: https://github.com/SkyWang0919/Stats506_public
 
 ## Activities 
-Group Members: 
+Group Members: (Week 1-3)
 
 Rithu Uppalapati - https://github.com/rurithu/Stats506_public
 
@@ -30,8 +30,8 @@ Tianshi Wang - https://github.com/SkyWang0919/Stats506_public
   + create a branch and then modify it with different git commands
 
 
-### Week 4-6
-Group Members:
+
+Group Members: (Week 4-6)
 
 Zhilin He - https://github.com/zhilinheobv/Stats506_public
 
@@ -42,9 +42,13 @@ Hao He - https://github.com/hhaohe513/Stats506_public
 Tianshi Wang - https://github.com/SkyWang0919/Stats506_public
 
 
-#### week 4: practicing dplyr in R.
+### Week 4: 
+Practicing dplyr in R.
 
-#### week 5: practicing ggplot in R, and made 2 plots.
+### Week 5: 
+Practicing ggplot in R, and made 2 plots.
+
+### Week 6:
 
 
 
