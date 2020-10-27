@@ -52,7 +52,6 @@ Practicing ggplot in R, and made 2 plots.
 
 
 ### Midterm Project:
-Group Members: (Week 4-6)
 
 Group members: EunSeon Ahn, Tianshi Wang, Yanyu Long
 
